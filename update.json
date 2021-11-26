@@ -1,6 +1,6 @@
 {
     "version": "2.0.2.0",
-    "commit": "62285a2-Build.Count",
-    "log": "接入检查更新\n密码:fkrd",
+    "commit": "352ec48-103",
+    "log": "- add: 新歌单页\n- add: 主题设置\n- change: 卡片 UI 微调\n- change: 设置页 UI 小改\n- fix: 修复了图片炸内存的问题\n- fix: 列表序号错乱\n密码:fkrd",
     "url": "https://misaka-l.lanzoui.com/b00o2ouja"
 }
